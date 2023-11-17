@@ -19,7 +19,7 @@ capi = []
 [dependencies]
 gdbstub = "0.6"
 singlyton = "4"
-unicorn-engine = "2.0.1" }
+unicorn-engine = "2.0.1"
 
 [package.metadata.capi.header]
 subdirectory = false
